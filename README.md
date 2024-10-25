@@ -1,1 +1,3 @@
 # Clone-mercado-livre
+
+Esse projeto é um clone do Mercado Livre que desenvolvi como forma de estudo e prática em React. Nele, busquei replicar a interface e as principais funcionalidades de um e-commerce, como listagem de produtos, carrinho de compras, checkout e autenticação de usuários. Além disso, integrei uma API de pagamento para simular transações. Foi uma experiência valiosa para aprofundar meus conhecimentos em front-end e explorar os desafios de criar uma aplicação mais robusta e funcional
